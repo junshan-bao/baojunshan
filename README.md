@@ -1,12 +1,10 @@
-<h2> Hey there! I'm Sanders.</h2>
+<h2> 哈喽，这里是Sanders </h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;关于我 </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🤔 &nbsp; 一个新时代农民工
+- 💼 &nbsp; 主要从事深度学习相关领域：NLP(NLG) > CV(HPE) > 推荐
+- ❤️ &nbsp; 喜欢制作游戏，偶尔弹弹吉他
 
 <a href="https://github.com/baojunshan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baojunshan&theme=buefy&show_icons=true" />
@@ -14,5 +12,6 @@
 </a>
 
 <h3> 👋🏻 &nbsp;感谢访问 </h3>
-![](http://profile-counter.glitch.me/baojunshan/count.svg)
+
+![VisitorCount](https://profile-counter.glitch.me/baojunshan/count.svg)
 <br/>
