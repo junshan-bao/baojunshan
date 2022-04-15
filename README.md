@@ -4,7 +4,8 @@
 
 - 🤔 &nbsp; 一个新时代农民工
 - 💼 &nbsp; 主要从事深度学习相关领域：NLP(NLG) > CV(HPE) > 推荐
-- ❤️ &nbsp; 喜欢制作游戏，偶尔弹弹吉他
+- 👾 &nbsp; 喜欢制作游戏，偶尔弹弹吉他
+- 📝 &nbsp; 起点网金牌小说家
 
 <a href="https://github.com/baojunshan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baojunshan&theme=buefy&show_icons=true" />
